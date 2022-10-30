@@ -2,7 +2,17 @@
 <h3 align="center">Being passionate about technology, having a desire to learn and explore more makes me what I am. I like to do new things and expand my knowledge with any sort of opportunity which comes my way. I am currently 2nd year Computer Science Engineering Student. I am interested in Artificial Intelligence, Machine Learning, Django, Android, and Web Development. I loves to combine my passion with my skills to build new products."</h3>
 
 
+- 🌱 I’m currently learning **DSA, Javascript, Blockchain and Web 3.0**
 
+- 📝 I regularly write articles on [https://krishnadbg.blogspot.com/](https://krishnadbg.blogspot.com/)
+
+- 💬 Ask me about **C/C++**
+
+- 📫 How to reach me **Krishnaraj143007@gmil.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 
 
