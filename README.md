@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sanjeev Kumar</h1>
-<h3 align="center">Being passionate about technology, having a desire to learn and explore more makes me what I am. I like to do new things and expand my knowledge with any sort of opportunity which comes my way. I am currently 3rd year Computer Science Engineering Student. I am interested in Artificial Intelligence, Machine Learning, Django, Android, and Web Development. I loves to combine my passion with my skills to build new products."</h3>
+<h3 align="center">Being passionate about technology, having a desire to learn and explore more makes me what I am. I like to do new things and expand my knowledge with any sort of opportunity which comes my way. I am currently 4th year Computer Science Engineering Student. I am interested in Artificial Intelligence, Machine Learning, Django, Android, and Web Development. I loves to combine my passion with my skills to build new products."</h3>
 
 
 - 🌱 I’m currently learning **DSA, Javascript, Blockchain and Web 3.0**
